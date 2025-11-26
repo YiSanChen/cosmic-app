@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the full application link already deployed on Vercel; click to run:
+https://cosmic-app-git-main-yisangpt-4643s-projects.vercel.app
 
 ## Getting Started
 
